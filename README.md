@@ -1,8 +1,5 @@
 # React Real-Time Chat App
 
-<p align="center">
-    <img src="http://git-assets.react-starter-kit.com/logo.png">  
-</p>
 
 ### [Online Demo](https://react-chatapp-frontend.herokuapp.com)
 
@@ -23,12 +20,6 @@ Users are able to join groups and message other users in real-time.
 * React Router 4
 * Moment JS
 * SASS
-
-### Screenshot
-
-<p align="center">
-    <img src="http://git-assets.react-starter-kit.com/react_chat_app.png">  
-</p>
 
 ## Software 
 
